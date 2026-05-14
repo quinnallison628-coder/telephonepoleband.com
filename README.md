@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Telephone Pole</title>
+
+  <link rel="icon" type="image/x-icon" image src="https://f4.bcbits.com/img/0040578065_25.jpg" alt="TP logo">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=American+Typewriter&display=swap" rel="stylesheet" />
