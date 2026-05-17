@@ -8,7 +8,7 @@
   <link rel="icon" href="https://f4.bcbits.com/img/0040578065_25.jpg" type="image/x-icon">
 
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=American+Typewriter&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=American+Typewriter&family=Rubik+Wet+Paint&display=swap" rel="stylesheet" />
   <style>
     body {
       margin: 0;
@@ -299,17 +299,12 @@
 
     /* Shows heading */
     #shows h2.shows-header {
-      font-family: "ccprimalscream", fantasy, cursive, serif;
+      font-family: "Rubik Wet Paint"; 
       font-size: 6rem;
       font-weight: normal;
       letter-spacing: 0.01em;
+      color: #262626;
       margin-bottom: 1rem;
-      text-shadow:
-        1px 1px 0 #c8c8c8,
-        0 2px 0 #b4b4b4,
-        0 3px 0 #a0a0a0,
-        0 4px 0 rgba(140, 140, 140, 0.5),
-        0 5px 10px rgba(0, 0, 0, 0.5);
       user-select: none;
       text-align: center;
     margin-top: -25px;
