@@ -389,7 +389,7 @@
     <div class="divider"></div>
 
     <section id="find-us" class="section about" tabindex="-1" aria-label="About Telephone Pole">
-      <p>telephone pole is a band from athens, ga. thanks for checking us out and supporting us!</p>
+      <p>telephone pole is a band from athens, ga. thanks for checking us out and supporting!</p>
       <p>also, <a href="mailto:telephonepole25@gmail.com" aria-label="Email Telephone Pole">reach out</a> so we can come to your town.</p>
     </section>
 
