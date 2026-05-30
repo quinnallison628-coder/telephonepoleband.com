@@ -8,7 +8,7 @@
   <link rel="icon" href="https://f4.bcbits.com/img/0040578065_25.jpg" type="image/x-icon">
 
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=American+Typewriter&family=Rubik+Wet+Paint&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=American+Typewriter&family=Ewert&display=swap" rel="stylesheet" />
   <style>
     body {
       margin: 0;
@@ -299,7 +299,7 @@
 
     /* Shows heading */
     #shows h2.shows-header {
-      font-family: "Rubik Wet Paint"; 
+      font-family: "Ewert"; 
       font-size: 6rem;
       font-weight: normal;
       letter-spacing: 0.01em;
