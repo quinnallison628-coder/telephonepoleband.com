@@ -12,7 +12,7 @@
   <style>
     body {
       margin: 0;
-      background-color: #fffaea;
+      background-color: #ffffff;
       color: #000;
       font-family: "american-typewriter", serif;
       -webkit-font-smoothing: antialiased;
@@ -23,7 +23,7 @@
     header {
       position: sticky;
       top: 0;
-      background-color: #fffaea;
+      background-color: #fffff;
       padding: 1em 0;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
       z-index: 1000;
@@ -384,8 +384,8 @@
     <div class="divider"></div>
 
     <section id="find-us" class="section about" tabindex="-1" aria-label="About Telephone Pole">
-      <p>telephone pole is a band from athens, ga. thanks for checking us out and supporting!</p>
-      <p>also, <a href="mailto:telephonepole25@gmail.com" aria-label="Email Telephone Pole">reach out</a> so we can come to your town.</p>
+      <p>telephone pole is a band from athens, ga.</p>
+      <p> <a href="mailto:telephonepole25@gmail.com" aria-label="Email Telephone Pole">reach out</a> so we can come to your town.</p>
     </section>
 
     <div class="divider"></div>
