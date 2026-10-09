@@ -400,7 +400,9 @@
     <div class="divider"></div>
 
     <section id="records" class="section records" aria-label="Records">
-      <a href="https://telephonepole.bandcamp.com/album/you-get-so-alone-at-times-that-it-just-makes-sense" target="_blank" rel="noopener noreferrer" class="record-link" aria-label="You Get So Alone At Times That It Just Makes Sense">
+     <a href=https://telephonepole.bandcamp.com/album/buy-me target="_blank" rel="noopener noreferrer" class="record-link" aria-label="Buy Me">
+        <img src="https://f4.bcbits.com/img/a3707302625_1x1_700.avif" alt="Buy me album cover" />
+      </a> <a href="https://telephonepole.bandcamp.com/album/you-get-so-alone-at-times-that-it-just-makes-sense" target="_blank" rel="noopener noreferrer" class="record-link" aria-label="You Get So Alone At Times That It Just Makes Sense">
         <img src="https://static.wixstatic.com/media/3445dc_b303c262cf6a4633be5a8cbbcdc166e6~mv2.jpg" alt="You Get So Alone At Times That It Just Makes Sense album cover" />
       </a>
       <a href="https://telephonepole.bandcamp.com/track/bipolar" target="_blank" rel="noopener noreferrer" class="record-link" aria-label="Bipolar">
